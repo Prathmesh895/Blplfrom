@@ -63,7 +63,7 @@ function register() {
             </div> </Link>
           <div className='border shadow  border-gray-300 m-5 w-4/5'></div>
           <div className=''>
-            Already have an account? <Link href='/Register' className='underline text-blue-600 font-semibold'>Login</Link>
+            Already have an account? <Link href='/login' className='underline text-blue-600 font-semibold'>Login</Link>
           </div>
         </section>
       </section>
