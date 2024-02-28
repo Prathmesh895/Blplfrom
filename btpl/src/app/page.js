@@ -8,4 +8,5 @@ export default function Home() {
       <h1>Welcome to Britwise Technology</h1>
     </main>
   );
+  
 }
